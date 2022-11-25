@@ -1,0 +1,15 @@
+C:\Users\dylan\Untitled\bin\Debug\net7.0\Untitled.exe
+C:\Users\dylan\Untitled\bin\Debug\net7.0\Untitled.deps.json
+C:\Users\dylan\Untitled\bin\Debug\net7.0\Untitled.runtimeconfig.json
+C:\Users\dylan\Untitled\bin\Debug\net7.0\Untitled.dll
+C:\Users\dylan\Untitled\bin\Debug\net7.0\Untitled.pdb
+C:\Users\dylan\Untitled\obj\Debug\net7.0\Untitled.csproj.AssemblyReference.cache
+C:\Users\dylan\Untitled\obj\Debug\net7.0\Untitled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Untitled\obj\Debug\net7.0\Untitled.AssemblyInfoInputs.cache
+C:\Users\dylan\Untitled\obj\Debug\net7.0\Untitled.AssemblyInfo.cs
+C:\Users\dylan\Untitled\obj\Debug\net7.0\Untitled.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Untitled\obj\Debug\net7.0\Untitled.dll
+C:\Users\dylan\Untitled\obj\Debug\net7.0\refint\Untitled.dll
+C:\Users\dylan\Untitled\obj\Debug\net7.0\Untitled.pdb
+C:\Users\dylan\Untitled\obj\Debug\net7.0\Untitled.genruntimeconfig.cache
+C:\Users\dylan\Untitled\obj\Debug\net7.0\ref\Untitled.dll
