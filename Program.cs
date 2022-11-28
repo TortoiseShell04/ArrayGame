@@ -4,7 +4,7 @@ namespace App
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             // MISC DECLARATION
             int moveCount = 0;
             bool gameIsOn = true;
@@ -54,6 +54,7 @@ namespace App
              // PLAYER CONTROL
              Console.WriteLine("Enter yout move: (W,A,S,D)");
                 cntrl = Convert.ToChar(Console.ReadLine());
+                
                 if (cntrl == 'w' || cntrl == 'W')
                 {
                     game[oldDim[0],oldDim[1]] = 0;
